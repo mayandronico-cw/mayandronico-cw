@@ -11,7 +11,7 @@
 
 - 👩‍💻 Engenheira de Suporte ao Cliente na CloudWalk
 - 🧠 Estudando IA, modelos de linguagem (LLMs) e automações com Python
-- ✨ Acredito que tecnologia deve ser clara, acessível e útil
+- ✨ Acredito que tecnologia deve ser acessível e útil
 
 ---
 
