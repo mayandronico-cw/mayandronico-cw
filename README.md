@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Mayara! 👩‍💻</h1>
 
 <p align="center">
-  💬 Engenheira de Suporte ao Cliente, apaixonada por tecnologia e boas conversas.  
+  💬 Analista de marketing, apaixonada por tecnologia e boas conversas.  
   🚀 Explorando Inteligência Artificial, automações e programação prática para o dia a dia.
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 💡 Sobre mim
 
-- 👩‍💻 Engenheira de Suporte ao Cliente na CloudWalk
+- 👩‍💻 Analista de Marketing na CloudWalk
 - 🧠 Estudando IA, modelos de linguagem (LLMs) e automações com Python
 - ✨ Acredito que tecnologia deve ser acessível e útil
 
