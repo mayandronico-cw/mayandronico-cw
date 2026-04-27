@@ -10,16 +10,16 @@
 ### 💡 Sobre mim
 
 - 👩‍💻 Analista de Marketing na CloudWalk
-- 🧠 Estudando IA, modelos de linguagem (LLMs) e automações com Python
+- 🧠 Estudando IA, modelos de linguagem (LLMs) e automações
 - ✨ Acredito que tecnologia deve ser acessível e útil
 
 ---
 
 ### 🤖 Em aprendizado
 
-- Lógica de programação com Python
+- Lógica de programação
 - Fundamentos de Machine Learning
-- IA aplicada ao suporte técnico
+- IA aplicada ao suporte técnico e captação de leads
 - Git e GitHub para projetos colaborativos
 
 ---
